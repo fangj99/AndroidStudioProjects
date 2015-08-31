@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">videoplay</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="filename">File Name</string>
+    <string name="filenoexist">File Not Exist</string>
+    <string name="playbutton">Play</string>
+    <string name="pausebutton">Pause</string>
+    <string name="reset">RePlay</string>
+    <string name="stop">Stop</string>
+    <string name="continues">Continue</string>
+</resources>

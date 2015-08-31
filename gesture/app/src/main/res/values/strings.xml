@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">gesture</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nomatch">No Match</string>
+    <string name="lowmatch">Low Match</string>
+    <string name="recognize">Recognize</string>
+</resources>

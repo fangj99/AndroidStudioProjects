@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">netimage22</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="imagepath">网络图片路径</string>
+    <string name="button">查看</string>
+    <string name="error">获取图片失败</string>
+
+</resources>

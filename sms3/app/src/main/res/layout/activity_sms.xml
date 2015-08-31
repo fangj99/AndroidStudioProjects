@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".sms">
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+    <TextView android:text="@string/number"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/numberlabel" />
+
+    <EditText android:id ="@+id/number"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_alignTop="@id/numberlabel"
+        android:layout_toRightOf="@id/numberlabel"
+        android:layout_marginLeft="5dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="24dp" />
+    </RelativeLayout>
+
+    <TextView android:text="@string/content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/content"
+        android:layout_alignParentStart="true" />
+
+    <EditText android:id ="@+id/content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:minLines="3"
+        android:layout_below="@+id/number"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="70dp" />
+
+    <Button android:id ="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button"
+        android:layout_below="@+id/content"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

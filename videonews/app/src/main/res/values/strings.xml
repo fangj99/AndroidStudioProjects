@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">videonews</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="timelength">时长：</string>
+    <string name="min">分钟</string>
+</resources>

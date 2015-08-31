@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">studentquery</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="studentno">Student Number</string>
+    <string name="button">Search Student</string>
+</resources>

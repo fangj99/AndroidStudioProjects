@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Phone</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mobile">请输入电话号</string>
+    <string name="content">短信发送内容</string>
+    <string name="button">短信发送</string>
+
+</resources>

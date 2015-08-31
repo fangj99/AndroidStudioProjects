@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="lancetheme" parent="android:Theme">
+        <item name="android:windowContentOverlay">@drawable/nocolor</item>
+        <item name="android:windowTitleSize">44dp</item>
+        <item name="android:windowTitleBackgroundStyle">@style/lancebg</item>
+    </style>
+
+    <style name="lancebg">
+
+        <item name="android:background">@drawable/rectangle</item>
+    </style>
+</resources>

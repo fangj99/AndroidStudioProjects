@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">customtitle</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <drawable name="nocolor">#00000000</drawable>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">newsmanager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="timelength">时长：</string>
+    <string name="button">保存</string>
+    <string name="title">视频标题</string>
+    <string name="suceess">保存成功</string>
+    <string name="error">保存失败</string>
+    <string name="filename">File Name</string>
+    <string name="filenotexist">File Not Exist</string>
+
+
+</resources>

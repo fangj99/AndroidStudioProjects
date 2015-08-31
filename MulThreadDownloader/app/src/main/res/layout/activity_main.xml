@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <TextView
+        android:text="@string/path"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <EditText
+        android:text="http://192.168.1.2:8080/web/npp.6.7.9.2.Installer.exe"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id = "@+id/path"
+        />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:text="@string/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id = "@+id/downloadbutton"
+            />
+
+        <Button
+            android:text="@string/stopbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id = "@+id/stopbutton"
+            android:enabled="false"
+            />
+
+    </LinearLayout>>
+
+    <ProgressBar
+        android:layout_width="fill_parent"
+        android:layout_height="18dp"
+        android:id = "@+id/progressbar"
+        style = "?android:attr/progressBarStyleHorizontal"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id = "@+id/resultView"
+        />
+
+
+
+</LinearLayout>

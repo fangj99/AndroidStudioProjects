@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\lance\AndroidStudioProjects\cardboard-java-master\CardboardSample\libs\libprotobuf-java-2.6-nano.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2ba3ce68542db5a4b672a22606e4fd4631ed5c4f">
+        <dex dex="C:\Users\lance\AndroidStudioProjects\cardboard-java-master\CardboardSample\build\intermediates\pre-dexed\debug\libprotobuf-java-2.6-nano-7ccd3ef073fac1d6e8330c56a7f40ad1ad19307d.jar" />
+    </item>
+    <item
+        jar="C:\Users\lance\AndroidStudioProjects\cardboard-java-master\CardboardSample\libs\cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="74b127309b58b124f574514fa8d9c389273a4364">
+        <dex dex="C:\Users\lance\AndroidStudioProjects\cardboard-java-master\CardboardSample\build\intermediates\pre-dexed\debug\cardboard-43e310d04acb744524bf9e800d1f80d29721668b.jar" />
+    </item>
+
+</items>

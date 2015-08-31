@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HtmlViewer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pagepath">网页路径</string>
+    <string name="button">查看</string>
+    <string name="error">获取网页失败</string>
+</resources>

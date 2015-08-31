@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">姓名</string>
+    <string name="age">年龄</string>
+    <string name="age">保存参数</string>
+</resources>

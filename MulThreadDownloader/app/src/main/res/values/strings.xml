@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MulThreadDownloader</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="path">File Path</string>
+    <string name="button">Download</string>
+    <string name="success">Suceess</string>
+    <string name="error">Error</string>
+    <string name="stopbutton">Stop Downloading</string>
+    <string name="sdcarderror">SD Card Problem</string>
+</resources>

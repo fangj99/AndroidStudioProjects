@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mobileAddressQuery</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mobile">手机号</string>
+    <string name="button">获取手机号归属地</string>
+    <string name="error">错误</string>
+</resources>

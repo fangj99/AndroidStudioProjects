@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PopupWindow</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Open Popup window</string>
+</resources>

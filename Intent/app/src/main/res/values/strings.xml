@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_other">New Activity</string>
+    <string name="content">I am a New Activity</string>
+    <string name="button">Open a New Activity</string>
+</resources>

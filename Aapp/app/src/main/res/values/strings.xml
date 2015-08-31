@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aapp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">往ContentProvider添加数据</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MulActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Open New Activity</string>
+    <string name="closebutton">Close Activity</string>
+    <string name="title">New Activity</string>
+    <string name="content">I am New Activity</string>
+    <string name="title_activity_other_activity2">OtherActivity2</string>
+</resources>
